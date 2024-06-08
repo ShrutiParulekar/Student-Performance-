@@ -26,7 +26,7 @@ Linear regression will be used to understand the relationship between various in
 
 After conducting hypothesis testing and linear regression analysis, the following conclusions were drawn:
 
-- **Difference Between Male and Female Scores**: Hypothesis testing and linear regression analysis showed that there is a significant difference between male and female scores.
+- **Difference Between Male and Female Scores**: Hypothesis testing showed that there is a significant difference between male and female scores.
 - **Effect of Lunch Type on Test Scores**: Students with a standard type of lunch tend to have higher test scores compared to those with free/reduced lunch.
 
 By understanding these findings, educators and policymakers can focus on interventions that can help improve student performance.
